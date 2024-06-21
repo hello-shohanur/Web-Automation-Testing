@@ -1,6 +1,9 @@
 # Web Automation Testing (Selenium | Python)
 Welcome to my repository dedicated to practicing web automation testing using Selenium and Python. Here, you'll find a curated collection of websites specifically chosen to help you sharpen your skills in automated testing using these powerful tools. Each website presents unique challenges, offering an excellent opportunity to explore various scenarios commonly encountered in real-world testing environments.
 
+## 🎈Websites
+1. SauceDemo (https://www.saucedemo.com/)
+
 ## 🔥Installation Process
 01. Download the project from GitHub (https://github.com/hello-shohanur/Web-Automation-Testing.git)
 
@@ -15,9 +18,6 @@ Welcome to my repository dedicated to practicing web automation testing using Se
 06. Your chosen browser will open and start working
 
 Note: Here I used Firefox. You have to setup your desired browser first
-
-## 🎈Websites
-1. SauceDemo (https://www.saucedemo.com/)
 
 ## 🎁Contribution
 Contributions to this repository are highly encouraged! If you have additional websites suitable for automation testing with Selenium and Python or enhancements to existing scripts, please feel free to submit a pull request.
